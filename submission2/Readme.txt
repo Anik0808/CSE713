@@ -1,8 +1,8 @@
 Link to unlisted YouTube video:
-https://www.youtube.com/watch?v=2uqQvC8pLcA
+https://www.youtube.com/...
 
 Public link to the slide:
-https://docs.google.com/presentation/d/1hCVgiAWFWX_H7eQNN1xMl3CEQinXo3Syn_sLTcWm8sc/edit?usp=sharing
+https://docs.google.com/presentation/d/...
 
 Paper title:
 Contrast Pattern-Based Classification for Bot Detection on Twitter
