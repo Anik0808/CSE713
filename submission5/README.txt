@@ -8,7 +8,7 @@ Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/d/1li6595lpjzLFl7Ax1zHbE2qP_arZmgvVM8L0D2xQXOg/edit?usp=sharing
 
 Project title:
-Analysis of Alzheimer’s Disease using Supervised ML Algorithms
+Analysis of Alzheimer’s Detection Disease using Supervised ML Algorithms
 
 Group Number:
 12
